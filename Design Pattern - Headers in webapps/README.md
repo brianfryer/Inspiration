@@ -12,16 +12,16 @@ I started thinking about other large websites/apps and really took notice of thi
 
 Have a look:
  
-Facebook:
+### Facebook:
 ![Screenshot of Facebook](/img/facebook.png) 
 
-Twitter:
+### Twitter:
 ![Screenshot of Twitter](/img/twitter.png)
 
-LinkedIn:
+### LinkedIn:
 ![Screenshot of LinkedIn](/img/linkedin.png)
 
-Pinterest:
+### Pinterest:
 ![Screenshot of Pinterest](/img/pinterest.png)
 
 Pinterest is the exception here, in that they've kept their logo intact. This is smart, IMO, since the site is similar to a magazine.
