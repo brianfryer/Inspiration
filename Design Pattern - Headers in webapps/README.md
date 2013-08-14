@@ -1,10 +1,8 @@
 I'm watching a YouTube video and am looking at a slide showing a screenshot of an older version of GitHub. In the top-left corner is the "github" word-mark -- and it looks totally out of place!
 
-Inline image 1
-
 This is out github looks today:
 
-Inline image 2
+![Screenshot of old GitHub site](/img/github-old.png)
 
 Stark, right?
 
@@ -12,15 +10,20 @@ I started thinking about other large websites/apps and really took notice of thi
 
 Have a look:
 
-Inline image 1
+![Screenshot of new GitHub site](/img/github.png)
+ 
+Facebook:
+![Screenshot of Facebook](/img/facebook.png) 
+
+Twitter:
+![Screenshot of Twitter](/img/twitter.png)
+
+LinkedIn:
+![Screenshot of LinkedIn](/img/linkedin.png)
 
 Pinterest:
-Inline image 1
- 
-Inline image 4
- 
-Inline image 5 
+![Screenshot of Pinterest](/img/pinterest.png)
 
-Pinterest is the exception here, in that they've kept their logo intact. This is smart, imo, since the site is similar to a magazine.
+Pinterest is the exception here, in that they've kept their logo intact. This is smart, IMO, since the site is similar to a magazine.
 
-Hopefully this will be of some assistance for when you begin considering UX improvements for the MarketVibe app. It seems like there's more to having a logo-mark / symbol than meets the eye :-)
+Hopefully this will be of some assistance for when you begin considering UX improvements for your app. It seems like there's more to having a logo-mark / symbol than meets the eye :-)
